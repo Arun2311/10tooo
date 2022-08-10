@@ -1,4 +1,4 @@
-// let array = [2,3,4,1,1,2]
+// let array = ["hghh","hjthftfh"]
 
 
 // const m = array.map(a => a*2)
